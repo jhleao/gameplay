@@ -24,7 +24,7 @@
 
 
 ## 💻 Projeto
-Este projeto foi desenvolvido inicialemnte durante a NLW#6, evento realizado pela [Rocksetseat](https://rocketseat.com.br/). As aulas foram ministradas pelo instrutor [Rodrigo Gonçalves](https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-santana/).
+Este projeto foi desenvolvido inicialmente durante a NLW#6, evento realizado pela [Rocksetseat](https://rocketseat.com.br/). As aulas foram ministradas pelo instrutor [Rodrigo Gonçalves](https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-santana/). Após o fim do evento, foram adicionadas mais algumas features ao projeto, como modal de alerta, confirmação e logout, possiblidade de excluir um agendamento e alguns ajustes visuais. Futuramente, serão implementadas novas features como suporte a notificações e agendamento por jogo.
 
 O GamePlay é um aplicativo criado para lhe ajudar a organizar suas jogatinas com seus amigos. Com ele, você pode agendar e administrar partidas de jogos de forma integrada ao Discord.
 
