@@ -1,0 +1,24 @@
+import {
+  REDIRECT_URI,
+  SCOPE,
+  RESPONSE_TYPE,
+  CLIENT_ID,
+  CDN_IMAGE,
+} from '@configs/discordAuth';
+
+import { 
+  DATABASE_NAME, 
+  COLLECTION_USERS,
+  COLLECTION_APPOINTMENTS,
+ } from '@configs/storage';
+
+export {
+  REDIRECT_URI,
+  SCOPE,
+  RESPONSE_TYPE,
+  CLIENT_ID,
+  CDN_IMAGE,
+  DATABASE_NAME,
+  COLLECTION_USERS,
+  COLLECTION_APPOINTMENTS,
+};
